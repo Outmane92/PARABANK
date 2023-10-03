@@ -34,9 +34,4 @@ public class MyMethods {
         Assert.assertTrue(element.getText().contains("success"));
     }
 
-
-    public  void  waitForNumberOfElement(By locator , int number){
-        wait.until(ExpectedConditions.numberOfElementsToBe(locator,number));
-    }
-
 }
