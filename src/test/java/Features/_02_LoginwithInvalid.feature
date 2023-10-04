@@ -1,5 +1,5 @@
 Feature: Register Function
-  I want to access my account
+  I want to access account
   by logging into the Para Bank website and
   perform bank transactions.
 
