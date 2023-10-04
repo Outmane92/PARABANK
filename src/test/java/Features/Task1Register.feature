@@ -12,7 +12,7 @@
      |Zip|23267|
      |Phone|8035779304|
      |SSN|253662283|
-     |Username |Mark321|
-     |Password|Mark123|
+     |Username |Mitch123|
+     |Password|Mitch123|
   Then the message "Your account was created successfully" was displayed
 
