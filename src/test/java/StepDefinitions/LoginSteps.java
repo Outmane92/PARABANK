@@ -15,8 +15,8 @@ public class LoginSteps {
 
     @Then("I enter {string}as username and {string}as password and click on login button")
     public void iEnterAsUsernameAndAsPasswordAndClickOnLoginButton(String username, String password) {
-        navigation.sendKeysMethod(navigation.usernameLogin,"Mark321");
-        navigation.sendKeysMethod(navigation.passwordLogin,"Mark123");
+        navigation.sendKeysMethod(navigation.usernameLogin,"Mitch123");
+        navigation.sendKeysMethod(navigation.passwordLogin,"Mitch123");
         navigation.clickMethod(navigation.LoginBtn);
     }
 
