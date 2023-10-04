@@ -1,11 +1,10 @@
 Feature: Register Function
   I want to access my account
   by logging into the Para Bank website and
-  perform my bank transactions.
+  perform bank transactions.
 
 Background:
   Given I navigate to bank application
-
 
   Scenario: Login with Invalid username and password
 
